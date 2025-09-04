@@ -4,10 +4,6 @@
 ////////////
 // HEADER //
 ////////////
-#ifndef _POSIX_C_SOURCE
-  #define _POSIX_C_SOURCE 200809L
-#endif
-
 #ifdef _MSC_VER
   #pragma warning(disable : 4996)
 #endif
